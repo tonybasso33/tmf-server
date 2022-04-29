@@ -82,6 +82,7 @@ A file will be created in your game MatchSettings (`Documents/TrackMania/Tracks/
 - Stop: `./stop.sh`
 
 ## Troubleshooting
+In case you started the server but isn't showing in server list, check log files in the `Logs` folder.
 
 ## Useful links
 
