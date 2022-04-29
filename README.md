@@ -16,7 +16,7 @@ Using PuTTY, connect to your VPS.
 ### Download 
 ```
 cd /home
-git clone git@gitlab.com:tony.basso33/tmuf-server-linux.git tmf
+git clone git@gitlab.com:tony.basso33/tmf-server-linux.git tmf
 ```
 
 ## Configuration
