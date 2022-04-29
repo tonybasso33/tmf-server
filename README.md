@@ -4,6 +4,8 @@ As I am writing this, Trackmania Forums are down so most of content about server
 
 I'm making this repo so people can get an (almost) fast to setup trackmania server.
 
+If you want to install a server with XAseco, follow [this tutorial](https://gitlab.com/tony.basso33/tmf-server-linux/-/tree/tmf-with-xaseco) instead.
+
 ## Requirements
 
 - A VPS
@@ -85,6 +87,6 @@ A file will be created in your game MatchSettings (`Documents/TrackMania/Tracks/
 In case you started the server but isn't showing in server list, check log files in the `Logs` folder.
 
 ## Useful links
-
+- [Trackmania Server (2011-02-21) download link](http://files2.trackmaniaforever.com/TrackmaniaServer_2011-02-21.zip)
 - [TMF Server Quickstart by Frans P. de Vries at gamers.org](https://www.gamers.org/tmf/quickstart.html)
 - [How to set up a Dedicated Trackmania Server with XASECO & Records Eyepiece by Rhys Jones](https://medium.com/@Jonese1234/how-to-set-up-a-dedicated-trackmania-server-with-xaseco-records-eyepiece-d8a44dbf528e)
